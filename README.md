@@ -130,7 +130,7 @@ __Additional UI interaction rules:__
 ### Getting Started
 
 Begin by "forking" the starter code repository. You can do so by clicking the "Fork" icon on
-the top right of [this](https://github.com/generalassembly-studio/JS-Unit-2-Project-Starter-Code) page. Once
+the top right of this repo. Once
 complete, clone the repository to your computer by running the following
 commands:
 
